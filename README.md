@@ -1,38 +1,55 @@
-# 👋 Olá, eu sou o Josué
+# 👋 E aí, eu sou o Josué
 
-💻 Estudante de programação
-⚙️ Focado em linguagem C e desenvolvimento de sistemas
-🚀 Aprendendo através de projetos práticos
+💻 Estudante de programação | ⚙️ C | 🚀 Evoluindo na prática
+
+![C](https://img.shields.io/badge/C-Language-blue)
+![Status](https://img.shields.io/badge/status-learning-green)
+![Focus](https://img.shields.io/badge/focus-systems-orange)
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧠 Sobre mim
 
-### 🔹 C-Math
+* 📚 Estudante do ensino médio
+* 💡 Aprendo criando projetos na prática
+* ⚙️ Focado em programação em C e sistemas
+* 🎯 Buscando evoluir de forma consistente como desenvolvedor
 
+---
+
+## 🚀 Projetos
+
+🔹 **C-Math**
 Calculadora modular em C com foco em organização de código
-👉 [Ver projeto](https://github.com/josue-melo/C-Math)
 
----
+👉 https://github.com/josue-melo/C-Math
 
-### 🔹 Projetos-C
-
+🔹 **Projetos-C**
 Repositório com exercícios e práticas em C
-👉 [Ver projeto](https://github.com/josue-melo/Projetos-C)
+
+👉 https://github.com/josue-melo/Projetos-C
 
 ---
 
-## 🧠 Atualmente aprendendo
+## Em evolução
 
 * Estruturas de dados em C
-* Melhor organização de código
-* Boas práticas de programação
+* Organização de código
+* Projetos mais complexos
 
 ---
 
-## 🎯 Objetivo
+## Estatísticas
 
-Evoluir como desenvolvedor e construir projetos cada vez mais completos
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josue-melo\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-melo\&layout=compact\&theme=tokyonight)
+
+---
+
+## ⚡ Curiosidade
+
+Comecei programando para criar jogos e hoje estou construindo meus próprios projetos em C.
 
 ---
 
