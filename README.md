@@ -41,9 +41,9 @@ Repositório com exercícios e práticas em C
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josue-melo\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=josue-melo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josue-melo\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josue-melo&layout=compact&theme=tokyonight)
 
 ---
 
